@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Liz, a Fullstack Web Developer!
+
+I was a dog trainer who enjoys web dev. 
+Now I'm a web dev who enjoys dog training.
+
+---
+**Current skills**: HTML(pug), CSS(less), Javascript, React, Node, Express, SQLite, Python \
+**Want to learn**: CSS(stylus), Nextjs, Vue, PostgreSQL, Django, PHP, Kotlin(android)  
+
+---
+Get in touch! [liz-shulman@lambdastudents.com](liz-shulman@lambdastudents.com)
 
 <!--
 **corgipower/corgipower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
